@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PomodoroTimer/static/css/main.13ea3f6b.chunk.css",
+    "main.js": "/PomodoroTimer/static/js/main.82fc9a52.chunk.js",
+    "main.js.map": "/PomodoroTimer/static/js/main.82fc9a52.chunk.js.map",
+    "runtime-main.js": "/PomodoroTimer/static/js/runtime-main.63877016.js",
+    "runtime-main.js.map": "/PomodoroTimer/static/js/runtime-main.63877016.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/PomodoroTimer/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.30fc7b35.chunk.js": "/PomodoroTimer/static/js/2.30fc7b35.chunk.js",
+    "static/js/2.30fc7b35.chunk.js.map": "/PomodoroTimer/static/js/2.30fc7b35.chunk.js.map",
+    "index.html": "/PomodoroTimer/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/PomodoroTimer/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.13ea3f6b.chunk.css.map": "/PomodoroTimer/static/css/main.13ea3f6b.chunk.css.map",
+    "static/js/2.30fc7b35.chunk.js.LICENSE.txt": "/PomodoroTimer/static/js/2.30fc7b35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63877016.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.30fc7b35.chunk.js",
+    "static/css/main.13ea3f6b.chunk.css",
+    "static/js/main.82fc9a52.chunk.js"
+  ]
+}
